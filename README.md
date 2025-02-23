@@ -13,7 +13,7 @@ DeepSeek AI Writer 是一款基于 DeepSeek 大型语言模型的 WordPress 智�
 *   **兼容性：** 完美兼容 WordPress 经典编辑器和 Gutenberg 编辑器。
 *   **易于使用：** 简洁直观的界面，无需任何技术背景，即可轻松上手。
 *   **连接测试：** 支持 DeepSeek AI 模型连接测试。
-*   **目前支持：** 支持火山引擎、腾讯云的Deepseek大模型调用。
+*   **目前支持：** 支持火山引擎、腾讯云、天翼云的Deepseek大模型调用。
 *   **有需要增加新的第三方deepseek支持：** 可自行修改代码或者联系开发者。
 *   **反馈：** <img src="https://www.deepods.com/wp-content/uploads/2025/02/catfeeds_wechat.png" alt="wechat" width="10%">
 
