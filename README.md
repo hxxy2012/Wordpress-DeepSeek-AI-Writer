@@ -4,6 +4,8 @@
 
 DeepSeek AI Writer 是一款基于 DeepSeek 大型语言模型的 WordPress 智能写作插件。它可以帮助您快速生成文章标题、正文和摘要，支持多种写作风格和文章结构，显著提高您的内容创作效率。
 
+clawcloud赠送5美元月费的计算服务，可以运行数据库、应用程序等，用github用户登录即可，领取链接：https://console.run.claw.cloud/signin?link=512FPCWG9O4W
+
 ## 主要功能
 
 *   **AI 内容生成：** 只需输入一个主题或简短的提示，即可快速生成文章的标题、正文和摘要。
